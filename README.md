@@ -20,8 +20,8 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
+git clone https://github.com/EddyPLS/Desafio_tecnico_ecore.git
+cd Desafio_tecnico_ecore
 ```
 
 ### 2. Install Python:
