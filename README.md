@@ -56,6 +56,8 @@ pip install -r requirements.txt
 ```
 
 ### Running Tests
+To run the tests, use the following command: 
 ```bash
-To run the tests, use the following command:
+pytest
+
 ```
